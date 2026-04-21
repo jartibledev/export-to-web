@@ -3,7 +3,7 @@
     <Actions category="Scripts">
         <text>Export to web</text>
 
-        <Action name="myAction">
+        <Action name="export_file_to_web_actions">
         <icon></icon>
         <text>Export to web</text>
         <whatsThis></whatsThis>
