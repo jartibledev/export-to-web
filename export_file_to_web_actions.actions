@@ -5,13 +5,13 @@
 
         <Action name="myAction">
         <icon></icon>
-        <text>My Script</text>
+        <text>Export to web</text>
         <whatsThis></whatsThis>
         <toolTip></toolTip>
         <iconText></iconText>
         <activationFlags>10000</activationFlags>
         <activationConditions>0</activationConditions>
-        <shortcut>ctrl+alt+shift+p</shortcut>
+        <shortcut>ctrl+alt+shift+n</shortcut>
         <isCheckable>false</isCheckable>
         <statusTip></statusTip>
         </Action>
